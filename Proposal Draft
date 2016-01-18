@@ -1,0 +1,60 @@
+Proposal for Senior Project
+Abigail De Velde
+Ryan Hardtke
+Sean Sutton
+Yonathan Negash
+ 
+The Crookston Library is located on 110 N Ash Street, Crookston, operating at 10:00 AM to 6:00 PM. This library serves a population of 7, 904 persons in Crookston and also its neighboring towns.
+It has been observed that the number of patrons who utilize the library has been declining. It is assumed that a part of the reason include the introduction of electronic devices to which the library computers and the second reason include the busyness of Patrons to stop by the library. Many books that have been burrowed are unaccounted for, hence the need for a efficient system that would meet the needs of the users. This project is geared toward building a website that would facilitate burrowing, browsing, and returning books, along with rental and purchasing of books. The facilitation would be in the form of pdf format, as well as hard copy of books. In addition, patrons who stop by may be able check books out themselves and log out themselves; without waiting on someone to check them out.
+
+What is the Project About
+The Project is about a website that is hosted online that would allow iusers (patrons) to access the website and database, browse the catalog, burrow books and return books as well as rent, download and purchase the books. This project will involve the user of a database system that will perform the following tasks:
+Store all users who have registered with the database. Retrieve username and password that has been stored in the database. 
+The database will also store a list of all books that are in the library. The database will update new entries of books, delete or archive books, that have been retired, update the books that are burrowed, the books that are rented, those that are available, and those that have been purchased. Queries can be made of books that are available so that updated information can be given at all times. Access to the website will be done via the back end of the database and the front end. The front end of the database will involve patrons who will register and login, hence access the database from the interface. The backend will involve the updating, and the querying of the database. The website will be accessed via mobile devices such as phones, tablets, and computer. The project will be managed, milestone will be observed, and critical tasks will be managed.
+
+The Importance of the Project
+The project in team 2’s view is a culmination of many courses that were taught in the ITM class: 
+CA- web development, SE 3-50- Database, ITM4020 Analysis and Design, SE2050- programming, Project management,  and MIS – Management Information Systems. 
+This project will enable the team to integrate the various courses’ concept into one big project. 
+The reasons for choosing the Crookston Library is to give back to the community for the education and other assistance that was given to the team.
+The Crookston Library will be managed in a more efficient way and instant reports can be given. The following groups of persons will be benefit:
+-	The library
+-	The student (or team). The team will be able to the concept of integrating the database concept and integrating it to the other concepts like online selling website,
+-	A report card system
+-	An online music store.
+It is the concept of the database that is integrated to a dynamic website that spurs interactivity. 
+
+The Outside People who will be Involved 
+The Crookston Library Administrators will be involved in the project. In addition, the community will also be involved in a random survey that will be distributed.
+
+Research that has been Done
+There are several online library that has been discovered in various forms. There are library that take the following forms: 
+-	Rental of books for a period of time
+-	Purchase of books
+-	Burrow and return of books
+-	Browse library and read books
+-	Download books.
+However, our program is unique and has never been done before. Our library system is unique in that the combination of what it is and what it does has not been done by any other system before.
+
+Project Objectives
+The following are the objectives of the project:
+-	Build a website that would require users to register in order to access the database of the books
+-	Each user must login each time that they access the system
+-	Users can browse the database
+-	Users can rent a book, burrow a book, download a book, and return the book
+-	Users can return a book
+-	Users can purchase a book and download it
+What Will We Learn from the Project
+I will learn to use MySQL to code the database
+I will learn to design the system using use case diagram, activity diagram, sequence diagram, state machine diagram, and data flow diagram.
+A class diagram is designed to show how the database will be coded. We will also learn to implement and complete the entire project.
+
+What Will Team 2 Produce
+Team 2 will produce a database that is working, that is online, and that is connected to a website that will interact with the website in a dynamic manner.
+
+How will Team 2 Determine the success of the Project
+Through a feasibility study that was conducted, and hence the result showed that it was feasible economically, politically and technically to produce a functioning website that users could use. Upon the presentation of the project at the end of April, sample of burrow, return, download, rented and archived books will be done.
+
+
+
+
